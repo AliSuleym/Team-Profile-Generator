@@ -12,9 +12,9 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Screenshot
 
 The following image shows screenshot of the generated HTML’s appearance and functionality:
+![scrennshot](https://user-images.githubusercontent.com/116298145/226124605-febd79db-b916-4fcc-983e-72c68cfced10.jpg)
 
 I started with a directory structure that looks like the following example:
-![scrennshot](https://user-images.githubusercontent.com/116298145/226124605-febd79db-b916-4fcc-983e-72c68cfced10.jpg)
 
 
 ```md
