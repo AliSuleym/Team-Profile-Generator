@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregPetropoulos/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/GregPetropoulos/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/GregPetropoulos/Team-Profile-Generator#readme"
+}
